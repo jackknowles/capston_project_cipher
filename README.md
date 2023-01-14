@@ -1,5 +1,5 @@
-# capston_project_cipher
-As part of the HyperionDev bootcamp, I was challenged to create a JavaScript programme that would take in a statment and create a code message.
+# capstone_project_T14_cipher
+As part of the HyperionDev bootcamp, task 14, I was challenged to create a JavaScript programme that would take in a statment and create a code message.
 
 The requirments:
 - Using an array containing the alphabet was not allowed.
